@@ -3,7 +3,7 @@ templateKey: blog-post
 title: testing cms
 date: 2020-08-07T19:21:09.447Z
 description: Blog post 1 testingBlog post 1 testingB
-featuredpost: false
+featuredpost: true
 featuredimage: /img/dsc02723.jpg
 tags:
   - dogs more stuff and tags
